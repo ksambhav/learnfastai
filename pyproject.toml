@@ -6,4 +6,5 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "fastbook>=0.0.29",
+    "mplcursors>=0.6",
 ]
